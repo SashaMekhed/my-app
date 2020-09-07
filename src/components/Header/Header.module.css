@@ -1,0 +1,12 @@
+.header{
+    grid-area: h;
+    background-color: aqua;
+  }
+
+  .header:hover{
+    background-color: chocolate;
+  }
+  
+  .header img{
+    width: 40px;
+  }
